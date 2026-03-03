@@ -1,0 +1,39 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "monthly_card",
+      "score": null,
+      "points": [
+        [
+          1055.4098360655737,
+          1044.2622950819673
+        ],
+        [
+          1476.7213114754097,
+          1044.2622950819673
+        ],
+        [
+          1476.7213114754097,
+          1140.9836065573772
+        ],
+        [
+          1055.4098360655737,
+          1140.9836065573772
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "monthly_card.png",
+  "imageData": null,
+  "imageHeight": 1600,
+  "imageWidth": 2560
+}

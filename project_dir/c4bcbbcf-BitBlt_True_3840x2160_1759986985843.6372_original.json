@@ -30,7 +30,7 @@
       "attributes": {}
     },
     {
-      "label": "box_target_enemy_long_inner",
+      "label": "target_enemy_long_inner",
       "shape_type": "rectangle",
       "flags": {},
       "points": [
