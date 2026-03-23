@@ -1,0 +1,39 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "treasure_icon",
+      "score": null,
+      "points": [
+        [
+          2925.3623188405795,
+          970.2173913043478
+        ],
+        [
+          2985.5072463768115,
+          970.2173913043478
+        ],
+        [
+          2985.5072463768115,
+          1023.8405797101449
+        ],
+        [
+          2925.3623188405795,
+          1023.8405797101449
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "treasure_icon.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}
