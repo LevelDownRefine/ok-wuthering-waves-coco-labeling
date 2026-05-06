@@ -1154,6 +1154,11 @@
       "id": 228,
       "name": "hiyuki_lib_forte",
       "supercategory": ""
+    },
+    {
+      "id": 229,
+      "name": "char_moning_new",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -2134,6 +2139,12 @@
       "width": 3840,
       "date_captured": null,
       "id": 109
+    },
+    {
+      "id": 110,
+      "file_name": "new_morney.png",
+      "width": 1920,
+      "height": 1080
     },
     {
       "license": 0,
@@ -4374,6 +4385,19 @@
       "iscrowd": 0,
       "ignore": 0,
       "segmentation": []
+    },
+    {
+      "id": 85,
+      "image_id": 110,
+      "category_id": 229,
+      "bbox": [
+        1775,
+        482,
+        43,
+        43
+      ],
+      "area": 1849,
+      "iscrowd": 0
     },
     {
       "id": 90,
