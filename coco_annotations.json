@@ -1328,15 +1328,6 @@
       "height": 2160,
       "width": 3840,
       "date_captured": null,
-      "id": 18
-    },
-    {
-      "license": 0,
-      "url": null,
-      "file_name": "2ab776e9-WindowsGraphicsCaptureMethod_3840x2160_title_None_Client-Win64-Shippin_s6FXjl1.png",
-      "height": 2160,
-      "width": 3840,
-      "date_captured": null,
       "id": 19
     },
     {
@@ -3198,6 +3189,12 @@
       "file_name": "11.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 239,
+      "file_name": "12.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -3565,15 +3562,15 @@
     },
     {
       "id": 26,
-      "image_id": 18,
+      "image_id": 239,
       "category_id": 120,
       "bbox": [
-        2807,
-        1236,
-        112,
-        220
+        1390,
+        639,
+        57,
+        77
       ],
-      "area": 24640,
+      "area": 4389,
       "iscrowd": 0
     },
     {
