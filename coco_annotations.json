@@ -3119,12 +3119,6 @@
       "id": 225
     },
     {
-      "id": 226,
-      "file_name": "0.png",
-      "width": 3840,
-      "height": 2160
-    },
-    {
       "id": 228,
       "file_name": "2.png",
       "width": 1920,
@@ -3195,6 +3189,12 @@
       "file_name": "12.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 240,
+      "file_name": "13.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -3215,15 +3215,15 @@
     },
     {
       "id": 1,
-      "image_id": 226,
+      "image_id": 240,
       "category_id": 221,
       "bbox": [
-        372,
-        94,
-        73,
-        48
+        405,
+        42,
+        42,
+        34
       ],
-      "area": 3504,
+      "area": 1428,
       "iscrowd": 0
     },
     {
@@ -3243,15 +3243,15 @@
     },
     {
       "id": 3,
-      "image_id": 226,
+      "image_id": 240,
       "category_id": 222,
       "bbox": [
-        1361,
-        1513,
-        81,
-        61
+        434,
+        642,
+        47,
+        30
       ],
-      "area": 4941,
+      "area": 1410,
       "iscrowd": 0
     },
     {
