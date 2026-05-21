@@ -1174,6 +1174,11 @@
       "id": 232,
       "name": "esc_setting",
       "supercategory": ""
+    },
+    {
+      "id": 233,
+      "name": "char_daniya",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -3222,6 +3227,12 @@
       "file_name": "14.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 243,
+      "file_name": "15.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -4460,6 +4471,19 @@
         47
       ],
       "area": 3525,
+      "iscrowd": 0
+    },
+    {
+      "id": 89,
+      "image_id": 243,
+      "category_id": 233,
+      "bbox": [
+        1771,
+        232,
+        39,
+        31
+      ],
+      "area": 1209,
       "iscrowd": 0
     },
     {
