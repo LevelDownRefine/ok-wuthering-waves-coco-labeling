@@ -57,7 +57,7 @@
     },
     {
       "id": 9,
-      "name": "aemeath_human",
+      "name": "aemeath_lib2",
       "supercategory": ""
     },
     {
@@ -2415,24 +2415,6 @@
     {
       "license": 0,
       "url": null,
-      "file_name": "aemeath_human.png",
-      "height": 2160,
-      "width": 3840,
-      "date_captured": null,
-      "id": 138
-    },
-    {
-      "license": 0,
-      "url": null,
-      "file_name": "aemeath_human.png",
-      "height": 2160,
-      "width": 3840,
-      "date_captured": null,
-      "id": 139
-    },
-    {
-      "license": 0,
-      "url": null,
       "file_name": "aemeth_e1.png",
       "height": 2160,
       "width": 3840,
@@ -3267,6 +3249,12 @@
     {
       "id": 244,
       "file_name": "16.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 245,
+      "file_name": "17.png",
       "width": 1920,
       "height": 1080
     }
@@ -4721,6 +4709,32 @@
       "iscrowd": 0
     },
     {
+      "id": 104,
+      "image_id": 142,
+      "category_id": 8,
+      "bbox": [
+        3199,
+        1884,
+        101,
+        89
+      ],
+      "area": 8989,
+      "iscrowd": 0
+    },
+    {
+      "id": 105,
+      "image_id": 142,
+      "category_id": 58,
+      "bbox": [
+        3545,
+        986,
+        72,
+        97
+      ],
+      "area": 6984,
+      "iscrowd": 0
+    },
+    {
       "id": 106,
       "image_id": 50,
       "category_id": 44,
@@ -4779,6 +4793,19 @@
       "iscrowd": 0,
       "ignore": 0,
       "segmentation": []
+    },
+    {
+      "id": 110,
+      "image_id": 245,
+      "category_id": 9,
+      "bbox": [
+        1795,
+        945,
+        42,
+        42
+      ],
+      "area": 1764,
+      "iscrowd": 0
     },
     {
       "id": 114,
@@ -5741,21 +5768,6 @@
       "segmentation": []
     },
     {
-      "id": 280,
-      "image_id": 138,
-      "category_id": 9,
-      "bbox": [
-        3210.243902439024,
-        1898.2926829268292,
-        78.04878048780483,
-        82.92682926829252
-      ],
-      "area": 6472.337894110632,
-      "iscrowd": 0,
-      "ignore": 0,
-      "segmentation": []
-    },
-    {
       "id": 282,
       "image_id": 140,
       "category_id": 7,
@@ -5781,36 +5793,6 @@
         102.43902439024396
       ],
       "area": 9244.497323021993,
-      "iscrowd": 0,
-      "ignore": 0,
-      "segmentation": []
-    },
-    {
-      "id": 286,
-      "image_id": 142,
-      "category_id": 8,
-      "bbox": [
-        3193.529411764706,
-        1879.4117647058824,
-        109.39741750358644,
-        94.4906743185079
-      ],
-      "area": 10337.035748617222,
-      "iscrowd": 0,
-      "ignore": 0,
-      "segmentation": []
-    },
-    {
-      "id": 287,
-      "image_id": 142,
-      "category_id": 58,
-      "bbox": [
-        3545.266432292146,
-        986.3381742102132,
-        72.08893960868045,
-        96.82986986692174
-      ],
-      "area": 6980.362641152908,
       "iscrowd": 0,
       "ignore": 0,
       "segmentation": []
