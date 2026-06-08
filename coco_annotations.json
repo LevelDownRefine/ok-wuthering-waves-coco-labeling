@@ -1214,6 +1214,16 @@
       "id": 240,
       "name": "switch_account",
       "supercategory": ""
+    },
+    {
+      "id": 241,
+      "name": "char_rebecca",
+      "supercategory": ""
+    },
+    {
+      "id": 243,
+      "name": "char_lucy",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -3268,6 +3278,12 @@
       "file_name": "18.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 247,
+      "file_name": "20.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -4829,6 +4845,32 @@
         42
       ],
       "area": 1806,
+      "iscrowd": 0
+    },
+    {
+      "id": 112,
+      "image_id": 247,
+      "category_id": 243,
+      "bbox": [
+        1783,
+        226,
+        30,
+        38
+      ],
+      "area": 1140,
+      "iscrowd": 0
+    },
+    {
+      "id": 113,
+      "image_id": 247,
+      "category_id": 241,
+      "bbox": [
+        1776,
+        365,
+        41,
+        40
+      ],
+      "area": 1640,
       "iscrowd": 0
     },
     {
