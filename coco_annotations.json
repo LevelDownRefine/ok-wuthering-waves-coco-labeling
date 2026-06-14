@@ -1181,6 +1181,11 @@
       "supercategory": ""
     },
     {
+      "id": 234,
+      "name": "char_lucilla",
+      "supercategory": ""
+    },
+    {
       "id": 239,
       "name": "book_wuyin",
       "supercategory": ""
@@ -3271,6 +3276,12 @@
       "file_name": "22.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 252,
+      "file_name": "25.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -4643,6 +4654,19 @@
       "iscrowd": 0,
       "ignore": 0,
       "segmentation": []
+    },
+    {
+      "id": 98,
+      "image_id": 252,
+      "category_id": 234,
+      "bbox": [
+        1779,
+        229,
+        36,
+        52
+      ],
+      "area": 1872,
+      "iscrowd": 0
     },
     {
       "id": 103,
