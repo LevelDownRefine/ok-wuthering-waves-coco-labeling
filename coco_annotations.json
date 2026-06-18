@@ -1284,6 +1284,16 @@
       "id": 254,
       "name": "target_box_short",
       "supercategory": ""
+    },
+    {
+      "id": 255,
+      "name": "garden_continue_last",
+      "supercategory": ""
+    },
+    {
+      "id": 256,
+      "name": "garden_unpause",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -3428,6 +3438,18 @@
       "file_name": "37.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 265,
+      "file_name": "38.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 266,
+      "file_name": "39.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -5279,6 +5301,19 @@
       "segmentation": []
     },
     {
+      "id": 133,
+      "image_id": 266,
+      "category_id": 255,
+      "bbox": [
+        1357,
+        626,
+        138,
+        107
+      ],
+      "area": 14766,
+      "iscrowd": 0
+    },
+    {
       "id": 134,
       "image_id": 68,
       "category_id": 207,
@@ -5292,6 +5327,19 @@
       "iscrowd": 0,
       "ignore": 0,
       "segmentation": []
+    },
+    {
+      "id": 135,
+      "image_id": 265,
+      "category_id": 256,
+      "bbox": [
+        1360,
+        455,
+        68,
+        78
+      ],
+      "area": 5304,
+      "iscrowd": 0
     },
     {
       "id": 136,
