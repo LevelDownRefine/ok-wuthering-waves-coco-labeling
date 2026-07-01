@@ -1287,7 +1287,7 @@
     },
     {
       "id": 255,
-      "name": "garden_continue_last",
+      "name": "the_garden_max",
       "supercategory": ""
     },
     {
@@ -3455,12 +3455,6 @@
       "file_name": "38.png",
       "width": 1920,
       "height": 1080
-    },
-    {
-      "id": 266,
-      "file_name": "39.png",
-      "width": 1920,
-      "height": 1080
     }
   ],
   "annotations": [
@@ -5112,9 +5106,9 @@
         767,
         284,
         28,
-        90
+        55
       ],
-      "area": 2520,
+      "area": 1540,
       "iscrowd": 0
     },
     {
@@ -5313,15 +5307,15 @@
     },
     {
       "id": 133,
-      "image_id": 266,
+      "image_id": 256,
       "category_id": 255,
       "bbox": [
-        1357,
-        626,
-        138,
-        107
+        1227,
+        43,
+        71,
+        38
       ],
-      "area": 14766,
+      "area": 2698,
       "iscrowd": 0
     },
     {
