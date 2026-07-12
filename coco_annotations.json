@@ -1319,6 +1319,16 @@
       "id": 261,
       "name": "claim_stamina_sign",
       "supercategory": ""
+    },
+    {
+      "id": 262,
+      "name": "char_linnai2",
+      "supercategory": ""
+    },
+    {
+      "id": 263,
+      "name": "char_chisa2",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -3493,6 +3503,18 @@
       "file_name": "43.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 269,
+      "file_name": "44.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 270,
+      "file_name": "45.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -5583,6 +5605,32 @@
       "iscrowd": 0,
       "ignore": 0,
       "segmentation": []
+    },
+    {
+      "id": 150,
+      "image_id": 269,
+      "category_id": 262,
+      "bbox": [
+        1774,
+        221,
+        41,
+        43
+      ],
+      "area": 1763,
+      "iscrowd": 0
+    },
+    {
+      "id": 151,
+      "image_id": 270,
+      "category_id": 263,
+      "bbox": [
+        1776,
+        227,
+        42,
+        41
+      ],
+      "area": 1722,
+      "iscrowd": 0
     },
     {
       "id": 154,
